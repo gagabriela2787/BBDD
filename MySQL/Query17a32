@@ -30,7 +30,7 @@ SELECT * FROM escuelas;
 ALTER TABLE escuelas
 DROP Partido;
 
-/* 20)
+/*20)
 Agregar una nueva escuela utilizando Insert Statement (no agregar el ID). Ejecutar desde la
 consulta:*/
 
